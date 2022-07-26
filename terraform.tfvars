@@ -1,0 +1,7 @@
+region = "us-west-1"
+ami = "ami-0d9858aa3c6322f73"
+keypair = "devkey2"
+instance-type = "t2.micro"
+name = "dev-server"
+Name = "my-bucket"
+bucket = "tf-tst-bucket"
